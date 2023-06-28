@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NafSyed
+- 👋 Hi, I’m @Nafeez
 - 👀 I’m interested in ... iOS Development
 - 🌱 I’m currently learning ... to build apps.
 - 💞️ I’m looking to collaborate on ... iOS projects related to SwiftUI
